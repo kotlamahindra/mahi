@@ -2,4 +2,4 @@
 
 
 
-print("HEllO World")
+print("HELLO World")
